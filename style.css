@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: #EDE9E1;
+}
+
+h1 {
+color: rgb(33, 33, 65);
+font-style: italic;
+}
+
+#author-img {
+    width: 135px;
+}
+
+.verse {
+    font-size: larger;
+    border: 2px solid black;
+    border-style: double;}
